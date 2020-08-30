@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Bill Nicholson
+ * nicholdw@ucmail.uc.edu
+ */
+using System;
 using System.Data.SqlClient;
 
 namespace SQLServerTools
