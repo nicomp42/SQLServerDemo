@@ -41,7 +41,7 @@ namespace SQLServerTools
             SqlDataReader dr = cmd.ExecuteReader();
 
             return dr;
-//          dr.Close();
+//          dr.Close();     // Calling method needs dr. Don't close it.
         }
 
     }
